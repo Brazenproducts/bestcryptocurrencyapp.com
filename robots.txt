@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestcryptocurrencyapp.com/sitemap.xml
